@@ -1,4 +1,5 @@
 # YDLIDAR X3 Lidar TOF 360° Scanning Ranging Sensor 8m for ROS Robotics support ROS1 ROS2
+![](https://github.com/YahboomTechnology/EAI-X3-Lidar/blob/main/Yahboom_YDLIDAR_X3-min.jpg)
 # Introduction
 Compared with other lidar modules on the market, this YDLIDARX3 lidar is more cost-effective. Using triangular ranging technology and serial communication, the detection radius is about 8m, which is enough for indoor projects. It comes with a motor driver that can automatically adjust the scanning frequency, and the sampling frequency is 3000 times per second. Yahboom will provide ROS1/ROS related tutorial materials, as well as APP and open source code for ROS robot radar mapping scanning.
 # Features
