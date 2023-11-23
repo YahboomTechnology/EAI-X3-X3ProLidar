@@ -1,8 +1,0 @@
-Before using the radar, you need to install the SDK first!
-1. Unzip YDLidar-SDK-master.zip;
-2. Enter the YDLidar-SDK-master folder and create a new build folder;
-3. Enter the built build folder, open the terminal in this directory, and then run in sequence,
-(1), cmake ..
-(2), make
-(3), sudo make install
-4. If there is no error in any step, the installation is successful.
