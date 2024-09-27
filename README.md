@@ -14,7 +14,7 @@ Compared with other lidar modules on the market, this YDLIDAR X3/X3 Pro lidar is
 5) Can be used for ROS educational robots, open source hardware, UAV mapping and obstacle avoidance, synchronous positioning and navigation.
 
 # Required Best Buy Links
-[Buy it](https://category.yahboom.net/products/)
+[Buy it](https://category.yahboom.net/products/eai-x3)
 
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
